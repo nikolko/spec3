@@ -1,6 +1,6 @@
-module github.com/go-openapi/spec3
+module github.com/nikolko/spec3
 
-go 1.13
+go 1.16
 
 require (
 	github.com/brianvoe/gofakeit v3.18.0+incompatible
